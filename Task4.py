@@ -20,5 +20,4 @@ while num > 0:
         max_dig = current_dig
     num = num // 10
     
-    
 print(f'Самая большая цифра в числе: {max_dig}')
